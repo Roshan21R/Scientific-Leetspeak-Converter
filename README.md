@@ -1,2 +1,16 @@
-# Scientific-Leetspeak-Converter
-A real-time scientific symbol translator that converts text into symbols from quantum physics, chemistry, biology, and mathematics for fun, learning, and scientific expression.
+# scientific_leetspeak_converter
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
